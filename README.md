@@ -1,4 +1,11 @@
 Minecraft-password-hacking-tool
 ===============================
 
-Toool for hacking
+Tool for hacking
+
+<p>
+    <label for="password">password</label>
+    <input type="text" name="username" id="username" value=""/>
+</p>
+
+Just PUT If you smart
